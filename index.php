@@ -24,7 +24,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 
-	<script>let BASE_URL = '<?php echo 'https://localhost/grupo-face/toastr/'; ?>';</script>
+	<script>let BASE_URL = '<?php echo 'https://localhost/yourproject/'; ?>';</script>
 
 	<script src="script.js"></script>
 </body>
